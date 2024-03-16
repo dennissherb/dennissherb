@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 📚 High school atm
+
 Game, web & art
 
 Experience with:
