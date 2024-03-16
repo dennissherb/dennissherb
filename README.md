@@ -2,7 +2,7 @@
 
 📚 High school atm
 
-dev in
+Experience with:
 - Godot
 - .NET
 - Blazor
