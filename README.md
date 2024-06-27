@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-📚 High school atm
-
+Hired dev
 Game, web & art
 
 Experience with:
@@ -9,9 +8,11 @@ Experience with:
 - .NET
 - Blazor
 - Blender
+- Spring Framework
 
 Languages: 
 -  C#
+-  Java
 -  C
 -  bash
 -  GDScript
