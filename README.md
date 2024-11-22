@@ -10,13 +10,15 @@ Experience with:
 - Blazor
 - Blender
 - Spring Framework
+- GCP
 
 Languages: 
 -  C#
 -  Java
 -  C
 -  bash
--  GDScript
+-  python
+-  terraform
 
 🐧 6yr+ Linux user 
 
