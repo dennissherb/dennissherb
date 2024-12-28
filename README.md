@@ -11,10 +11,12 @@ Experience with:
 - Blender
 - Spring Framework
 - GCP
+- React
 
 Languages: 
 -  C#
 -  Java
+-  JavaScript
 -  C
 -  bash
 -  python
