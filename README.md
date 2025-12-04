@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hired dev
+Web dev, Mathematics student
 
 Game, web & art
 
